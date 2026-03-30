@@ -32,4 +32,4 @@ F8	Delete with confirmation dialog
 F9	Rename file or directory
 F10 / q	Quit
 
-The binary runs at ~1ms startup time and uses ~1MB RAM. Switch to the TellurCom workflow tab in your console to interact with it.
+The binary runs at ~1ms startup time and uses ~1MB RAM. 
